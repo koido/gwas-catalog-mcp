@@ -1,0 +1,11 @@
+[project]
+name = "gwas-catalog-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastmcp>=2.2.1",
+    "mcp[cli]>=1.6.0",
+    "requests>=2.32.3",
+]
