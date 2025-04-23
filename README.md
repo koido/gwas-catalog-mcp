@@ -23,7 +23,6 @@ This project is currently under active development. Features and APIs may change
 .
 ├── server.py             # Main FastMCP server entrypoint
 ├── utils.py              # Utility functions
-├── run_tests.py          # Test runner
 ├── pyproject.toml        # Project metadata and dependencies
 ├── README.md             # Usage and documentation
 ├── tests/                # Test suite and test data
